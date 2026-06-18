@@ -181,10 +181,3 @@ A+BC = (A+B)(A+C)
 
 ---
 
-## Summary
-
-* Learned the basics of digital systems.
-* Studied logic gates and their functions.
-* Understood universal gates (NAND and NOR).
-* Learned DeMorgan's theorems.
-* Studied important Boolean algebra laws.
