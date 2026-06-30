@@ -1,4 +1,4 @@
-# Smart Access Control System — FPGA RTL Design Report
+# A Report on FPGA Based Smart Access Control System
 
 **Target Board:** AT-STLN-ARTIX7-001 (ANM-PRD-2025-005)
 **System Clock:** 24 MHz
