@@ -4,9 +4,10 @@
 **System Clock:** 24 MHz
 **HDL:** Verilog
 
+**Submitted by:** Sudhanshu Rao(VA 005) and Shreekar R K(VA 006)
 ---
 
-# Part A — Plain-English Explanation
+# Part A - Plain-English Explanation
 
 ## 1. What This System Does
 
@@ -60,7 +61,7 @@ The diagram below shows every state the system can be in and what causes it to m
 
 ---
 
-# Part B — Technical RTL Report
+# Part B - Technical RTL Report
 
 ## 1. Overview
 
